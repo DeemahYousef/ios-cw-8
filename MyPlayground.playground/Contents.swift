@@ -9,7 +9,7 @@ var currentYear = 2022
 
 var age = 2022-birthdayYear
 
-print("Hello my name is \(name)my age is \(age)")
+print("Hello my name is \(name) my age is \(age)")
 
 var num1 = "8"
 
